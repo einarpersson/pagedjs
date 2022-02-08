@@ -153,6 +153,11 @@ Run the local dev-server with livereload and autocompile on [http://localhost:90
 $ npm start
 ```
 
+```sh
+sudo apt install libgs-dev
+```
+Source [here](https://gitlab.pagedmedia.org/tools/pagedjs/-/merge_requests/151)
+
 ## Deployment
 Build the `dist` output
 ```sh
